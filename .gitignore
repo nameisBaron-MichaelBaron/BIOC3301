@@ -1,0 +1,66 @@
+### HIDDEN FILES
+
+
+.*
+!.gitignore
+!.bashrc
+
+
+### EXTENSIONS
+
+
+*.gz
+*.fna
+*.log
+*.e*
+*.o*
+*__*__*
+*.biom
+*.pyc
+
+
+### LATEX
+
+
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+
+
+### DIRECTORIES
+
+
+16/
+17/
+18/
+networks/
+qiime_tmp/
+
+
+### SPECIAL
+
+
+!report/Report.tex
+!report/figs/**
+!report/figs/
+!report/figures.ipynb
